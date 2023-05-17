@@ -1,0 +1,26 @@
+_repo: The-diagnostics-and-treatment-of-tropical-diseases_70667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stitt, Edward R.
+    gutenberg_agent_id: '55854'
+    url: http://www.gutenberg.org/2009/agents/55854
+description: ''
+gutenberg_issued: '2023-04-29'
+identifiers:
+  gutenberg: '70667'
+language: en
+pgterms:marc905: 20061017024355stitt
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Chris Curnow, John Campbell, University of the Witwatersrand Health
+  Science Library, The Bodleian, The London School of Hygiene & Tropical Medicine
+  and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bH. K. Lewis and Co., Ltd., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The diagnostics and treatment of tropical diseases
+url: http://www.gutenberg.org/ebooks/70667
