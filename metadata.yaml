@@ -1,11 +1,16 @@
 _repo: The-diagnostics-and-treatment-of-tropical-diseases_70667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70667-h/images/cover.jpg
 creator:
   author:
     agent_name: Stitt, Edward R.
     gutenberg_agent_id: '55854'
     url: http://www.gutenberg.org/2009/agents/55854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70667#The-diagnostics-and-treatment-of-tropical-diseases
 gutenberg_issued: '2023-04-29'
 identifiers:
   gutenberg: '70667'
